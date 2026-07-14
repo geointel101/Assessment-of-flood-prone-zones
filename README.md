@@ -41,9 +41,9 @@ Itu LGA covers about 606 km². It sits in a tropical zone with rainfall year-rou
 6. **Field Validation** — Administered 400 questionnaires to residents to assess flood experience and perception
 7. **Statistical Testing** — Used Spearman correlation to test relationships between flood factors, experience, vulnerability, and mitigation
 
-![Elevation Layer](./maps/elevation-layer.png)
-![Slope Layer](./maps/slope-layer.png)
-![Drainage Density Map](./maps/drainage-density-map.png)
+![Elevation Layer](./maps/Elevation.jpg)
+![Slope Layer](./maps/Slope.jpg)
+![Drainage Density Map](./maps/Drainage-Density.jpg)
 
 ## Tools & Software
 
