@@ -105,7 +105,7 @@ GIS and AHP proved effective for mapping and quantifying flood risk in Itu LGA. 
 ## Repository Structure
 
 ```
-itu-flood-prone-gis/
+Assessment-of-flood-prone-zones/
 ├── README.md                  # This document
 ├── maps/
 │   ├── flood-prone-map.png
