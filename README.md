@@ -3,7 +3,7 @@
 
 **Type:** Undergraduate Research Project (B.Sc. Geography and Natural Resources Management)
 **Institution:** University of Uyo
-**Author:** Kenneth Shaho Sunday
+**Author:** Sunday KENNETH Shaho
 **Year:** 2022
 
 ---
