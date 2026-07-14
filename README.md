@@ -43,7 +43,7 @@ Itu LGA covers about 606 km². It sits in a tropical zone with rainfall year-rou
 
 ![Elevation Layer](./maps/Elevation.jpg)
 ![Slope Layer](./maps/Slope.jpg)
-![Drainage Density Map](./maps/Drainage Density.jpg)
+![Drainage Density Map](./maps/Drainage_Density.jpg)
 
 ## Tools & Software
 
