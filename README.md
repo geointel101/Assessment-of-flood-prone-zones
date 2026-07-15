@@ -47,8 +47,7 @@ Itu LGA covers about 606 km². It sits in a tropical zone with rainfall year-rou
 
 ## Tools & Software
 
-- **ArcMap 10.3** — geoprocessing, reclassification, weighted overlay
-- **Spatial Analyst Tools** — slope, drainage density derivation
+- **ArcMap 10.3** — geoprocessing, reclassification, weighted overlay, supervised classification, slope, drainage density derivation
 - **SAS.Planet** — high-resolution imagery for accuracy assessment
 - **SPSS** — statistical analysis of survey data
 
@@ -98,7 +97,7 @@ GIS and AHP proved effective for mapping and quantifying flood risk in Itu LGA. 
 - Multi-criteria decision analysis (AHP)
 - Raster reclassification and weighted overlay in GIS
 - DEM-derived terrain analysis (slope, drainage density)
-- Land use/land cover classification from satellite imagery
+- Land use/land cover supervised classification from satellite imagery
 - Survey design and statistical hypothesis testing
 - Flood risk mapping and cartographic communication
 
